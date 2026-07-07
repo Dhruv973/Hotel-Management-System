@@ -46,8 +46,6 @@ git clone https://github.com/Dhruv973/Hotel-Management-System.git
 
 ## 📸 Screenshots
 
-## 📸 Screenshots
-
 ### 🏠 Home Screen
 
 ![Home Screen](Screenshots/Home.png)
