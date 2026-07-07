@@ -46,7 +46,23 @@ git clone https://github.com/Dhruv973/Hotel-Management-System.git
 
 ## 📸 Screenshots
 
-*(Screenshots will be added soon.)*
+## 📸 Screenshots
+
+### 🏠 Home Screen
+
+![Home Screen](Screenshots/Home.png)
+
+---
+
+### 🛏️ Room Booking
+
+![Room Booking](Screenshots/BookRoom.png)
+
+---
+
+### 📋 Show Rooms
+
+![Show Rooms](Screenshots/ShowRooms.png)
 
 ---
 
