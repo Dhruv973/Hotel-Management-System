@@ -46,10 +46,6 @@ git clone https://github.com/Dhruv973/Hotel-Management-System.git
   
    mvn clean javafx:run
 
-   If you don't want to rebuild everything every time, use :
-
-   mvn javafx:run
-
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
