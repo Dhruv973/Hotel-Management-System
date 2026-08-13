@@ -46,6 +46,19 @@ git clone https://github.com/Dhruv973/Hotel-Management-System.git
   
    mvn clean javafx:run
 
+## 🧠 OOP Concepts Demonstrated
+
+- **Abstraction:** `Room` is an abstract class that defines common properties and behavior for different room types.
+- **Encapsulation:** Room data is kept private and accessed through public methods such as getters and setters.
+- **Inheritance:** `StandardRoom`, `DeluxeRoom`, and `SuiteRoom` extend the `Room` class.
+- **Polymorphism:** Each room type provides its own implementation of the `calculateTariff()` method.
+- **Interface:** The `Amenities` interface defines common service methods implemented by applicable room types.
+- **Enum:** `RoomType` represents room categories and their base prices.
+- **ArrayList:** `HotelManager` uses an `ArrayList` to manage room objects.
+- **File Handling:** Room information is saved to and loaded from `rooms.txt`.
+- **JavaFX Event Handling:** User actions such as adding, removing, booking, and checkout are handled through JavaFX events.
+- **Multithreading:** `BookingThread` extends `Thread` and is used to handle the booking process.
+
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
