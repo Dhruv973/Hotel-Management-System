@@ -42,7 +42,12 @@ git clone https://github.com/Dhruv973/Hotel-Management-System.git
 
 3. Make sure Maven dependencies are downloaded.
 
-4. Run `Main.java` to launch the JavaFX application.
+4. Run the JavaFX application using Maven:
+
+mvn clean javafx:run
+If you don't want to rebuild everything every time, use:
+
+mvn javafx:run
 
 ## 📸 Screenshots
 
